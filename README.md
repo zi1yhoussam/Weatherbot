@@ -3,9 +3,9 @@
 
 The directory contains three sub-directories:
 
-- 'Training' contains the 'getting started' files which you can use if you code as you watch.
-- 'test' contains the full completed code of the tutorial which you can use if you want to test the models, make changes, train them :)
-- 'src' contains the full code of Weatherbot  which is compatible with the latest releases of Rasa NLU and Rasa Core.
+- 'Training' contains the 'getting started' files which you can use if you code.
+- 'test' contains the code which you can use if you want to test the models, make changes, train them :)
+- 'src' contains the code of Weatherbot  which is compatible with the latest releases of Rasa NLU and Rasa Core.
 
 
 
