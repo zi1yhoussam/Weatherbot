@@ -12,7 +12,7 @@ The directory contains three sub-directories:
 
 ### Training the NLU model
 
-Training of the NLU model didn't change much from the way it was shown in the video. To train and test the model run:  
+Training of the NLU model didn't change much. To train and test the model run:  
 
 ``` python nlu_model.py ```
 
