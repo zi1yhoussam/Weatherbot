@@ -43,7 +43,7 @@ The process of running the interactive session is very similar to training the R
 ``` python train_interactive.py ```  
 
 ### Connecting a chatbot to Slack:
-1. Configure the slack app as shown in the video  
+1. Configure the slack app  
 2. Make sure custom actions server is running  
 3. Start the agent by running run_app.py file (don't forget to provide the slack_token)  
 4. Start the ngrok on the port 5004  
